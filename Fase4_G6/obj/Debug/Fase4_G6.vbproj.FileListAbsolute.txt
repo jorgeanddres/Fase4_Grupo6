@@ -1,0 +1,479 @@
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Fase4_G6.dll.config
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Fase4_G6.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Fase4_G6.pdb
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\WebForms_Basic.xml
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\csc.exe
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\csc.exe.config
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\csc.rsp
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\csi.exe
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\csi.exe.config
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\csi.rsp
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Managed.Core.targets
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.AppContext.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Collections.Immutable.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Console.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Globalization.Calendars.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.Compression.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.FileSystem.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Net.Http.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Net.Sockets.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Reflection.Metadata.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.ValueTuple.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XmlDocument.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XPath.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\vbc.exe
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\vbc.exe.config
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\vbc.rsp
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\VBCSCompiler.exe
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\roslyn\VBCSCompiler.exe.config
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Antlr3.Runtime.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\AspNet.ScriptManager.bootstrap.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\AspNet.ScriptManager.jQuery.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Microsoft.ScriptManager.WebForms.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Microsoft.Web.Infrastructure.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Newtonsoft.Json.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\System.Web.Optimization.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\WebGrease.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\System.Web.Optimization.xml
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Newtonsoft.Json.xml
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Antlr3.Runtime.pdb
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\es\System.Web.Optimization.resources.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.AssemblyReference.cache
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.Resources.resources
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.GenerateResource.cache
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.CoreCompileInputs.cache
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.CopyComplete
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.dll
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\obj\Debug\WebForms_Basic.xml
+E:\UNAD\16-01 I periodo 2023\VB Avanzado 6\Fase 4\Proyecto\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Fase4_G6.dll.config
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Fase4_G6.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Fase4_G6.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\WebForms_Basic.xml
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\csc.exe
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\csc.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\csc.rsp
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\csi.exe
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\csi.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\csi.rsp
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Console.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\vbc.exe
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\vbc.rsp
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\System.Web.Optimization.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\WebGrease.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\System.Web.Optimization.xml
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.dll
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\obj\Debug\WebForms_Basic.xml
+C:\Users\Usuario\OneDrive\Escritorio\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.pdb
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Fase4_G6.dll.config
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Fase4_G6.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Fase4_G6.pdb
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\WebForms_Basic.xml
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\WebGrease.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\es\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.Resources.resources
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.CopyComplete
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.dll
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\obj\Debug\WebForms_Basic.xml
+C:\Users\User\Desktop\Nueva carpeta (3)\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.pdb
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Fase4_G6.dll.config
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Fase4_G6.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Fase4_G6.pdb
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\WebForms_Basic.xml
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\csc.exe
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\csc.exe.config
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\csc.rsp
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\csi.exe
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\csi.exe.config
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\csi.rsp
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Console.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.Compression.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Net.Http.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.ValueTuple.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\vbc.exe
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\vbc.rsp
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\System.Web.Optimization.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\WebGrease.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\System.Web.Optimization.xml
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.AssemblyReference.cache
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.Resources.resources
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.GenerateResource.cache
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.CopyComplete
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.dll
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\obj\Debug\WebForms_Basic.xml
+C:\Users\USUARIO 1\Desktop\2023\Mayo\03_05\Revision\VISUAL BASIC AVANZADO\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.pdb
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Fase4_G6.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Fase4_G6.pdb
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\WebForms_Basic.xml
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\csc.exe
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\csc.exe.config
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\csc.rsp
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\csi.exe
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\csi.exe.config
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\csi.rsp
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.AppContext.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Console.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.Compression.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Net.Http.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Net.Sockets.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.ValueTuple.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\vbc.exe
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\vbc.exe.config
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\vbc.rsp
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\VBCSCompiler.exe
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Antlr3.Runtime.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Newtonsoft.Json.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\System.Web.Optimization.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\WebGrease.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\System.Web.Optimization.xml
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Newtonsoft.Json.xml
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Antlr3.Runtime.pdb
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\es\System.Web.Optimization.resources.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.AssemblyReference.cache
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.Resources.resources
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.GenerateResource.cache
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.CoreCompileInputs.cache
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.vbproj.CopyComplete
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.dll
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\obj\Debug\WebForms_Basic.xml
+C:\Users\c.giraldo\Downloads\Fase4_G6\Fase4_G6\obj\Debug\Fase4_G6.pdb
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Fase4_G6.dll.config
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Fase4_G6.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Fase4_G6.pdb
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\WebForms_Basic.xml
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\csc.exe
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\csc.exe.config
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\csc.rsp
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\csi.exe
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\csi.exe.config
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\csi.rsp
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.AppContext.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Console.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Net.Http.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\vbc.exe
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\vbc.exe.config
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\vbc.rsp
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Antlr3.Runtime.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Newtonsoft.Json.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\System.Web.Optimization.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\WebGrease.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\System.Web.Optimization.xml
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Newtonsoft.Json.xml
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Antlr3.Runtime.pdb
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\obj\Debug\Fase4_G6.vbproj.AssemblyReference.cache
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\obj\Debug\Fase4_G6.Resources.resources
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\obj\Debug\Fase4_G6.vbproj.GenerateResource.cache
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\obj\Debug\Fase4_G6.vbproj.CoreCompileInputs.cache
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\obj\Debug\Fase4_G6.vbproj.CopyComplete
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\obj\Debug\Fase4_G6.dll
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\obj\Debug\WebForms_Basic.xml
+C:\Users\Jorge Andres\Downloads\Nueva carpeta (2)\Fase4_G6_V5\Fase4_G6\obj\Debug\Fase4_G6.pdb
